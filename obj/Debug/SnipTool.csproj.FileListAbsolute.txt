@@ -1,0 +1,32 @@
+E:\CodeSpace\C#\SnipTool\SnipTool\bin\Debug\SnipTool.exe
+E:\CodeSpace\C#\SnipTool\SnipTool\bin\Debug\SnipTool.pdb
+E:\CodeSpace\C#\SnipTool\SnipTool\obj\Debug\SnipTool.csprojResolveAssemblyReference.cache
+E:\CodeSpace\C#\SnipTool\SnipTool\obj\Debug\SnipTool.Form1.resources
+E:\CodeSpace\C#\SnipTool\SnipTool\obj\Debug\SnipTool.Properties.Resources.resources
+E:\CodeSpace\C#\SnipTool\SnipTool\obj\Debug\SnipTool.csproj.GenerateResource.Cache
+E:\CodeSpace\C#\SnipTool\SnipTool\obj\Debug\SnipTool.exe
+E:\CodeSpace\C#\SnipTool\SnipTool\obj\Debug\SnipTool.pdb
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\bin\Debug\SnipTool.exe
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\bin\Debug\SnipTool.pdb
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Debug\SnipTool.Form1.resources
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Debug\SnipTool.Properties.Resources.resources
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Debug\SnipTool.csproj.GenerateResource.Cache
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Debug\SnipTool.exe
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Debug\SnipTool.pdb
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\bin\Debug\SnipTool.exe.manifest
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\bin\Debug\SnipTool.application
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Debug\SnipTool.exe.manifest
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Debug\SnipTool.application
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Debug\SnipTool.csprojResolveAssemblyReference.cache
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\obj\Debug\SnipTool.exe
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\obj\Debug\SnipTool.pdb
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\bin\Debug\SnipTool.exe.manifest
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\bin\Debug\SnipTool.application
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\bin\Debug\SnipTool.exe
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\bin\Debug\SnipTool.pdb
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\obj\Debug\SnipTool.csprojResolveAssemblyReference.cache
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\obj\Debug\SnipTool.Form1.resources
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\obj\Debug\SnipTool.Properties.Resources.resources
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\obj\Debug\SnipTool.csproj.GenerateResource.Cache
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\obj\Debug\SnipTool.exe.manifest
+E:\CodeSpace\C#\SnipTool_V1.0.0 - Copy\SnipTool\obj\Debug\SnipTool.application

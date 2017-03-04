@@ -1,0 +1,11 @@
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\bin\Release\SnipTool.exe
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\bin\Release\SnipTool.pdb
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Release\SnipTool.Form1.resources
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Release\SnipTool.Properties.Resources.resources
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Release\SnipTool.csproj.GenerateResource.Cache
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Release\SnipTool.exe
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Release\SnipTool.pdb
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\bin\Release\SnipTool.exe.manifest
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\bin\Release\SnipTool.application
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Release\SnipTool.exe.manifest
+E:\CodeSpace\C#\SnipTool_V1.0.0\SnipTool\obj\Release\SnipTool.application

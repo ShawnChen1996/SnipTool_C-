@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SnipTool.Properties.Resources" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnipTool.Properties.Settings" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnipTool.CatchForm" Collapsed="true">
+    <Position X="1.5" Y="1.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAAAAAAgAAAAAAACAAQEAAAgQAAAAMQAAAIAA=</HashCode>
+      <FileName>CatchForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
